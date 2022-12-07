@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ViktorGrigorov2910
-- 👀 I’m interested in Java and app Development :)  
-- 🌱 I’m currently learning Java and trying to make some projects  
-- 💞️ I’m looking to collaborate on ...                             
-- 📫 How to reach me ...
+- 👋 Hi, I’m Viktor Grigorov aka Vik
+- 👀 Interested in Android Development :)  
+- 🌱 Currently working as a Junior Android Developer 📱📱📱             
+- 👷‍♂️ Building side-projects to improve Android skills as well as learn Jetpack Compose              
+- 📫 How to reach me TODO()...
 
 <!---
 ViktorGrigorov2910/ViktorGrigorov2910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
